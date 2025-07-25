@@ -8,6 +8,8 @@ categories: [kesehatan, hipertensi]
 math: true
 ---
 
+![Sehati](/assets/img/sehati.png)
+
 > Risiko hipertensi dapat dikurangi dan dicegah melalui SEHATI, yakni: 
 {: .prompt-info }
 
